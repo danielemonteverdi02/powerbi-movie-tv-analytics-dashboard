@@ -1,3 +1,5 @@
+This dashboard was developed as a guided learning project to practice Power BI, DAX and data visualization techniques.
+
 # 🎬 Movie & TV Analytics Dashboard
 
 ## 📌 Project Overview
